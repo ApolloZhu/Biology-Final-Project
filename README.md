@@ -24,7 +24,7 @@ Each needs a sentence like this:
 > Ocean wolf fits into the `Level` `Name` because `Reason`
 
 |Level|Name|Reason|
-|::|::|::|
+|---|---|---|
 |Domain|Eukarya|It is an animal|  
 |Kingdom|Animalia|The cell is the same as animal cells|
 |Phylum|Chordata|Have backbone|
