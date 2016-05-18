@@ -4,13 +4,14 @@ Final project for biology at Oakton HS
 Reformat code: [http://jsbeautifier.org](http://jsbeautifier.org)
 
 # Plan
-**Due: 6/10/16**
-Present: 6/14/16
+> **Due: 6/10/16**
+> Present: 6/14/16
 
-## Main Page
-Member’s Name: `Camaron Larson-Tran`; `Zhiyu Zhu`
-Subject & Class Period: `Biology`, `Period 5`
-Name: `Sea Wolf` (`Canis oceanus`)
+## Main Page -- 75%
+- [ ] Member’s Name: `Camaron Larson-Tran`; `Zhiyu Zhu`
+	- [ ] Profile Photo for Camaron
+- [x] Subject & Class Period: `Biology`, `Period 5`
+- [x] Name: `Sea Wolf` (`Canis oceanus`)
 - [ ] ==**Labeled**== Visual Presentation
 	- [ ] Drawing
 	- [ ] Picture
@@ -69,4 +70,3 @@ Cell & Energy
 	How it maintain homeostasis
 		Brief discussion of osmosis with key terms
 		Active/Passive transport
-		
