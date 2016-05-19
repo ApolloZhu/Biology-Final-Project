@@ -1,99 +1,107 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Sea Wolf</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sea Wolf</title>
 
 
-<!-- Bootstrap -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/main.css" rel="stylesheet">
-<style></style>
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-<!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <style></style>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
 
 </head>
 
 <body>
-<header id="header"></header>
-<div class="container text-center">
-	<div class="wrapper">
-		<ul class="bg-bubbles">
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-	</div>
-	<h1 class="xxx-large"><b>Sea Wolf</b></h1>
-	<h2><i>-- Canis oceanus</i></h2>
-</div>
-<div class="container">
-	<div class="row" id = "Image">
-		<div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-12 col-xs-12">
-			<img src="images/Wolf.png" alt="Image of Sea Wolf" width="100%" class="floating"></img>
-		</div>
-		<div id="tags">
-			
-		</div>
-	</div>
-	<div class="row text-center">
-		<div>
-			<h3>Group Members</h3>
-		</div>
-		<div class="media text-center">
-			<div class="media-body">
-			<div class="media-left col-lg-6 col-md-6 col-sm-6 col-xs-6">
-				<a href="#" target="_blank">
-					<div class="media-object">
-						<img src="images/cl.png" alt="Camaron" class="img-circle rotating profile" data-holder-rendered="true">
-					</div>
-					<div class="media-bottom">
-						<h4 class="visible-lg visible-md visible-sm hidden-xs">Camaron Larson-Tran</h4>
-						<p class="hidden-lg hidden-md hidden-sm visible-xs">Camaron Larson-Tran</p>
-					</div>
-				</a>
-			</div>
-			<div class="media-right col-lg-6 col-md-6 col-sm-6 col-xs-6">
-				<a href="http://www.apollonian.xyz/product/apollo.html" target="_blank">
-					<div class="media-object">
-						<img src="images/zz.png" alt="Apollo" class="img-circle rotating profile" data-holder-rendered="true">
-					</div>
-					<div class="media-bottom">
-						<h4 class="visible-lg visible-md visible-sm hidden-xs">Zhiyu Zhu</h4>
-						<p class="hidden-lg hidden-md hidden-sm visible-xs">Zhiyu Zhu</p>
-					</div>
-				</a>
-			</div>
-			</div>
-			<div class="media-bottom">
-				<button type="button" class="btn btn-info btn-sm">Period 5</button>
-				<button type="button" class="btn btn-success btn-sm">Biology</button>
-			</div>
-	</div>
-	</div>
-</div>
-<footer id="footer"></footer>
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
-<script src="js/jquery-1.11.3.min.js"></script>
+    <header id="header"></header>
+    <div class="container text-center">
+        <div class="wrapper">
+            <ul class="bg-bubbles">
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+        </div>
+        <h1 class="xxx-large"><b>Sea Wolf</b></h1>
+        <h2><i>-- Canis oceanus</i></h2>
+    </div>
+    <div class="container">
 
-<!-- Include all compiled plugins (below), or include individual files as needed --> 
-<script src="js/bootstrap.js"></script>
-<script src="js/main.js"></script>
-<script>
-	setGlobalContents();
-</script>
+        <div class="row">
+            <div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-12 col-xs-12">
+                <div id="wolfDiagram">
+
+                </div>
+                <!--
+                <img src="images/Wolf.png" alt="Image of Sea Wolf" width="100%" class="floating"></img>
+                </div>
+                <div id="tags">
+                -->
+            </div>
+        </div>
+        <div class="row text-center">
+            <div>
+                <h3>Group Members</h3>
+            </div>
+            <div class="media text-center">
+                <div class="media-body">
+                    <div class="media-left col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                        <a href="#" target="_blank">
+                            <div class="media-object">
+                                <img src="images/cl.png" alt="Camaron" class="img-circle rotating profile" data-holder-rendered="true">
+                            </div>
+                            <div class="media-bottom">
+                                <h4 class="visible-lg visible-md visible-sm hidden-xs">Camaron Larson-Tran</h4>
+                                <p class="hidden-lg hidden-md hidden-sm visible-xs">Camaron Larson-Tran</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="media-right col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                        <a href="http://www.apollonian.xyz/product/apollo.html" target="_blank">
+                            <div class="media-object">
+                                <img src="images/zz.png" alt="Apollo" class="img-circle rotating profile" data-holder-rendered="true">
+                            </div>
+                            <div class="media-bottom">
+                                <h4 class="visible-lg visible-md visible-sm hidden-xs">Zhiyu Zhu</h4>
+                                <p class="hidden-lg hidden-md hidden-sm visible-xs">Zhiyu Zhu</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="media-bottom">
+                    <button type="button" class="btn btn-info btn-sm">Period 5</button>
+                    <button type="button" class="btn btn-success btn-sm">Biology</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer id="footer"></footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery-1.11.3.min.js"></script>
+
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.js"></script>
+    <script src="js/raphael.min.js"></script>
+    <script src="js/wolf.js"></script>
+    <script src="js/main.js"></script>
+    <script>
+        setupWolf();
+        setGlobalContents();
+    </script>
 </body>
 </html>

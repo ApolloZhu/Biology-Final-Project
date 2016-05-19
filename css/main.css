@@ -30,6 +30,14 @@ a {
     font-size: 60px;
 }
 
+
+.floating:hover {
+    -webkit-transform: scale(1.06);
+    transform: scale(1.06);
+    -webkit-transition: 0.2s ease-in;
+    transition: 0.2s ease-in;
+}
+
 #footer {
     position: fixed;
     bottom: 0px;
@@ -50,17 +58,15 @@ a {
         transition: all 0.5s ease-in;
     }
 
-img {
+div {
     -webkit-transition: all 0.2s ease-out;
     transition: all 0.2s ease-out;
 }
 
-    img.floating:hover {
-        -webkit-transform: scale(1.06);
-        transform: scale(1.06);
-        -webkit-transition: 0.2s ease-in;
-        transition: 0.2s ease-in;
-    }
+img {
+    -webkit-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
 
     img.profile {
         width: 40%;
