@@ -30,6 +30,7 @@ a {
     font-size: 60px;
 }
 
+
 .floating:hover {
     align-content: center;
     -webkit-transform: scale(1.06, 1.06);
@@ -37,6 +38,8 @@ a {
     -webkit-transition: all 0.2s ease-in;
     transition: all 0.2s ease-in;
 }
+
+
 
 #footer {
     position: fixed;
@@ -106,7 +109,7 @@ img {
     }
 }
 
-/* SVG */
+/*SVG*/
 .cls-1, .cls-6, .cls-7 {
     fill: none;
 }
