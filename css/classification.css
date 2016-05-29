@@ -1,0 +1,172 @@
+h5.para{
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Verdana", "sans-serif";
+	text-align:right;
+}
+
+.diff{
+	background-color: #66ccff;
+	color: white;
+}
+
+/* Apple Developer Style */
+
+#collection nav.book-parts {
+    display: none
+}
+
+#collection .chapter {
+    margin-left: 0;
+    width: 980px
+}
+
+#collection .pixel-line {
+    margin-left: 0;
+    width: 980px
+}
+
+#collection .section {
+    padding-bottom: 0
+}
+
+#collection span.spacer {
+    margin-right: 11px
+}
+
+#collection .collection-table {
+    margin-bottom: 40px
+}
+
+#collection .collection-table thead th {
+    text-align: left
+}
+
+#collection .collection-table thead th .para {
+    border-bottom: 1px solid #eee;
+    margin: 4px 30px 0 0;
+    padding-bottom: 4px
+}
+
+#collection .collection-table th .para, #collection .collection-table td .para {
+    margin-bottom: 0
+}
+
+#collection .collection-table td {
+    border: 0;
+    padding: 5px 15px 5px 0;
+    max-width: inherit;
+    vertical-align: top
+}
+
+#collection .depth2 .para {
+    padding-left: 12px
+}
+
+#collection .depth3 .para {
+    padding-left: 27px
+}
+
+#collection .depth4 .para {
+    padding-left: 42px
+}
+
+#collection .depth5 .para {
+    padding-left: 57px
+}
+
+#collection .depth6 .para {
+    padding-left: 72px
+}
+
+#collection .depth7 .para {
+    padding-left: 87px
+}
+
+#collection .depth8 .para {
+    padding-left: 102px
+}
+
+#collection .depth9 .para {
+    padding-left: 117px
+}
+
+#collection .z-class-node td:first-of-type {
+    background-image: url(https://developer.apple.com/library/ios/Resources/1197/Images/collection_node_2x.png);
+    background-repeat: no-repeat;
+    background-size: 100px 100px
+}
+
+#collection .z-class-node td.orphan-parent:first-of-type {
+    background-image: url(https://developer.apple.com/library/ios/Resources/1197/Images/collection_node_orphan_parent_2x.png)
+}
+
+#collection .z-class-node td.orphan-grandparent {
+    background-image: url(https://developer.apple.com/library/ios/Resources/1197/Images/collection_node_orphan_grandparent_2x.png)
+}
+
+#collection .z-class-node td.orphan-parent.orphan-grandparent:first-of-type {
+    background-image: url(https://developer.apple.com/library/ios/Resources/1197/Images/collection_node_orphan_parent_and_grandparent_2x.png)
+}
+
+#collection .z-class-node td.last-child {
+    background-image: url(https://developer.apple.com/library/ios/Resources/1197/Images/collection_last_child_2x.png)
+}
+
+#collection .z-class-node td.last-child.orphan-parent {
+    background-image: url(https://developer.apple.com/library/ios/Resources/1197/Images/collection_last_child_orphan_parent_2x.png)
+}
+
+#collection .z-class-node td.last-child.orphan-grandparent {
+    background-image: url(https://developer.apple.com/library/ios/Resources/1197/Images/collection_last_child_orphan_grandparent_2x.png)
+}
+
+#collection .z-class-node td.last-child.orphan-parent.orphan-grandparent {
+    background-image: url(https://developer.apple.com/library/ios/Resources/1197/Images/collection_last_child_orphan_parent_and_grandparent_2x.png)
+}
+
+#collection .z-class-node td.parent {
+    background-image: url(https://developer.apple.com/library/ios/Resources/1197/Images/collection_node_parent_2x.png)
+}
+
+#collection .z-class-node td.parent.last-child {
+    background-image: url(https://developer.apple.com/library/ios/Resources/1197/Images/collection_parent_last_child_2x.png)
+}
+
+#collection .z-class-node td.parent.orphan-parent {
+    background-image: url(https://developer.apple.com/library/ios/Resources/1197/Images/collection_node_parent_orphan_parent_2x.png)
+}
+
+#collection .z-class-node td.parent.last-child.orphan-parent {
+    background-image: url(https://developer.apple.com/library/ios/Resources/1197/Images/collection_node_parent_last_child_orphan_parent_2x.png)
+}
+
+#collection .depth2 {
+    background-position: -81px 0
+}
+
+#collection .depth3 {
+    background-position: -67px 0
+}
+
+#collection .depth4 {
+    background-position: -53px 0
+}
+
+#collection .depth5 {
+    background-position: -39px 0
+}
+
+#collection .depth6 {
+    background-position: -25px 0
+}
+
+#collection .depth7 {
+    background-position: -11px 0
+}
+
+#collection .depth8 {
+    background-position: 3px 0
+}
+
+#collection .depth9 {
+    background-position: 17px 0
+}

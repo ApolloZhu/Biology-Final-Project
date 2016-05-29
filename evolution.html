@@ -1,35 +1,259 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Evolution of Sea Wolf</title>
 
-
-    <!-- Bootstrap -->
-    <link href="css/bootstrap.css" rel="stylesheet">
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Evolution of Ocean Wolf</title>
+		<link href="css/bootstrap.css" rel="stylesheet">
+		<link href="css/main.css" rel="stylesheet">
+		<link href="css/classification.css" rel="stylesheet">
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
+	</head>
 
-</head>
+	<body>
+		<header id="header"></header>
+		<div class="container hidden-xs">
+			<table id="collection" class="collection-table" border="0" cellspacing="0" cellpadding="0" width="90%" align="center" style="margin-bottom:100px;">
+				<thead>
+					<tr id="lable" scope="row">
+						<td>
+							<h3 style="color:#4432CA;">Classification</h3>
+						</td>
+						<td style="text-align:right;">
+							<h3 style="color:#8CF3D3;">Reason</h3>
+						</td>
+					</tr>
+				</thead>
+				<tbody>
+					<tr id="trophic0" class="z-class-node" scope="row">
+						<td class="depth2 parent">
+							<h3 class="para">
+                                <button type="button" class="btn btn-sm" style="background-color:#000000; color:#FFFFFF;">
+                                    <b>Domin</b>
+                                </button>
+                                :Eukarya
+                              </h3>
+						</td>
+						<td>
+							<h5 class="para">Their cells have a nucleus</h5>
+						</td>
+					</tr>
+					<tr id="trophic1" class="z-class-node" scope="row">
+						<td class="depth3 parent">
+							<h3 class="para">
+                                <button type="button" class="btn btn-sm" style="background-color:#920C0E; color:#FFFFFF;">
+                                    Kindom
+                                </button>
+                                :Animalia
+                              </h3>
+						</td>
+						<td>
+							<h5 class="para">There are no cell wall around the cells, and contain centriole</h5>
+						</td>
+					</tr>
+					<tr id="trophic2" class="z-class-node" scope="row">
+						<td class="depth4 parent">
+							<h3 class="para">
+                                <button type="button" class="btn btn-sm" style="background-color:#F19F0A; color:#FFFFFF;">
+                                    Phylum
+                                </button>
+                                :Chordata
+                              </h3>
+						</td>
+						<td>
+							<h5 class="para">Its embryo has notochord</h5>
+						</td>
+					</tr>
+					<tr id="trophic3" class="z-class-node" scope="row">
+						<td class="depth5 parent">
+							<h3 class="para">
+                                <button type="button" class="btn btn-sm" style="background-color:#EEEA2F; color:#FFFFFF;">
+                                    Class
+                                </button>
+                                :Mammalia
+                              </h3>
+						</td>
+						<td>
+							<h5 class="para">They are covered with hair, and feed their babies with milk they produced</h5>
+						</td>
+					</tr>
+					<tr id="trophic4" class="z-class-node" scope="row">
+						<td class="depth6 parent">
+							<h3 class="para">
+                                <button type="button" class="btn btn-sm"  style="background-color:#27E3B5; color:#FFFFFF;">
+                                    Order
+                                </button>
+                                :Carnivora
+                              </h3>
+						</td>
+						<td>
+							<h5 class="para">They eat other fishes with powerful jaws and teeth</h5>
+						</td>
+					</tr>
+					<tr id="trophic5" class="z-class-node" scope="row">
+						<td class="depth7 parent">
+							<h3 class="para">
+                                <button type="button" class="btn btn-sm" style="background-color:#66CCFF; color:#FFFFFF;">
+                                    Family
+                                </button>
+                                :Canidae
+                              </h3>
+						</td>
+						<td>
+							<h5 class="para">
+                            	 It has characteristics that consist of long muzzles, short ears, teeth adapted for cracking bones and slicing flesh, and bushy tails
+                        	</h5>
+						</td>
+					</tr>
+					<tr id="trophic6" class="z-class-node" scope="row">
+						<td class="depth8 parent">
+							<h3 class="para">
+                                <button type="button" class="btn btn-sm" style="background-color:#1708EC; color:#FFFFFF;">
+                                    Genus
+                                </button>:
+                                Canis
+                              </h3>
+						</td>
+						<td>
+							<h5 class="para">It has upright ears, grey color and they don't look like foxes</h5>
+						</td>
+					</tr>
+					<tr id="trophic7" class="z-class-node" scope="row">
+						<td class="depth9 last-child">
+							<h3 class="para">
+                                <button type="button" class="btn btn-sm" style="background-color:#8010F5; color:#FFFFFF;">
+                                    Species
+                                </button>
+                                :Oceanus
+                              </h3>
+						</td>
+						<td>
+							<h5 class="para">It lives in the ocean</h5>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="container visible-xs firstBlock">
+			<table border="0" cellspacing="0" cellpadding="0" align="center" class="col-xs-12" style="text-align:center; margin-bottom: 100px">
+                <thead>
+					<tr>
+						<td align="center">
+							<h3 style="color:#4432CA;">Classification</h3>
+						</td>
+						<td align="center">
+							<h3 style="color:#8CF3D3;">Reason</h3>
+						</td>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>
+							<h5>
+								<b>Domin</b>
+								:Eukarya
+							</h5>
+						</td>
+						<td>
+							<h5>Their cells have a nucleus</h5>
+						</td>
+					</tr>
+					<tr class="diff">
+						<td>
+							<h5>
+								<b>Kindom</b>
+                                :Animalia
+                            </h5>
+						</td>
+						<td>
+							<h5>There are no cell wall around the cells, and contain centriole</h5>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<h5>
+                                <b>Phylum</b>
+                                :Chordata
+                            </h5>
+						</td>
+						<td>
+							<h5>Its embryo has notochord</h5>
+						</td>
+					</tr>
+					<tr class="diff">
+						<td>
+							<h5>
+                                <b>Class</b>
+                                :Mammalia
+                            </h5>
+						</td>
+						<td>
+							<h5>They are covered with hair, and feed their babies with milk they produced</h5>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<h5>
+								<b>Order</b>
+                                :Carnivora
+                            </h5>
+						</td>
+						<td>
+							<h5>They eat other fishes with powerful jaws and teeth</h5>
+						</td>
+					</tr>
+					<tr class="diff">
+						<td>
+							<h5>
+								<b>Family</b>
+                                :Canidae
+                            </h5>
+						</td>
+						<td>
+							<h5>
+                            	 It has characteristics that consist of long muzzles, short ears, teeth adapted for cracking bones and slicing flesh, and bushy tails
+                        	</h5>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<h5>
+                                <b>Genus</b>
+                                :Canis
+                            </h5>
+						</td>
+						<td>
+							<h5>It has upright ears, grey color and they don't look like foxes</h5>
+						</td>
+					</tr>
+					<tr class="diff">
+						<td>
+							<h5>
+                                <b>Species</b>
+                                :Oceanus
+                            </h5>
+						</td>
+						<td>
+							<h5>It lives in the ocean</h5>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<footer id="footer"></footer>
+		<script src="js/jquery-1.11.3.min.js"></script>
+		<script src="js/bootstrap.js"></script>
+		<script src="js/main.js"></script>
+		<script>
+			setGlobalContents();
+		</script>
+	</body>
 
-<body>
-    <header id="header"></header>
-    <footer id="footer"></footer>
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="js/jquery-1.11.3.min.js"></script>
-
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.js"></script>
-    <script src="js/main.js"></script>
-    <script>
-        setGlobalContents();
-    </script>
-</body>
 </html>
