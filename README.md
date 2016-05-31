@@ -7,18 +7,18 @@ Reformat code: [http://jsbeautifier.org](http://jsbeautifier.org)
 > **Due: 6/10/16**
 > Present: 6/14/16
 
-## Main Page -- 75%
-- [x] Member’s Name: `Camaron Larson-Tran`; `Zhiyu Zhu`
-	- [x] Profile Photo for Camaron
+## Main Page -- 95%
+- [x] Member’s Name: `Camaron Larson-Tran`; `Zhiyu Zhu`; “John Hetman”
+	- [x] Profile Photo for `J`
 - [x] Subject & Class Period: `Biology`, `Period 5`
-- [x] Name: `Ocean Wolf` (`Canis oceanus`)
+- [x] Name: `Ocean Wolf` (`Canis (lupus) oceanus`)
 - [x] ==**Labeled**== Visual Presentation
 	- [x] Drawing
 	- [x] Picture
 	- [x] Model
 
-## Ecology/Evolution
-### Classification —> Apollo
+## Ecology/Evolution -- 50%
+### Classification —> Apollo -- 100 %
 [Classification Of Wolf](https://en.wikipedia.org/wiki/Canis)
 Each needs a sentence like this:
 > Ocean wolf fits into the `Level` `Name` because `Reason`
@@ -34,7 +34,7 @@ Each needs a sentence like this:
 |Genus|Canis|It has the characteristics of wolves|
 |Species|Oceanus|It live in the ocean|
 
-### Biome —> Camamron
+### Biome —> Camamron -- 0%
 Brief description of biome/habitat
 - [ ] Temperature
 - [ ] Rainfall
@@ -54,7 +54,7 @@ A brief description of its niche
 Complete food web containing at least 7 organisms
 Brief description of at least 2 interactions that it participate in
 
-### Genetics/Reproduction —> John
+### Genetics/Reproduction —> John -- ?
 Diagram of reproductive life cycle
 Include Labels and key terms
  Asexual/Sexual, Diploid/Haploid, Fertilization, zygote,, Mitosis/Meiosis/Spores
@@ -63,10 +63,10 @@ Role and process of mitosis/meiosis
 	Centrioles/Nucleus…
 Process of who it synthesizes proteins
 
-### Cell & Energy —> Apollo
+### Cell & Energy —> Apollo -- 0%
 	At least 10 organelles
 	Detailed description of photosynthesis/Cellular Respiration
 		Include key terms
 	How it maintain homeostasis
 		Brief discussion of osmosis with key terms
-		Active/Passive transport
+		Active / Passive transport
