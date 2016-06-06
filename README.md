@@ -36,9 +36,9 @@ Each needs a sentence like this:
 
 ### Biome —> Camamron -- 33%
 #### Brief description of biome/habitat
-- [x] Temperature
-- [x] Rainfall
-- [x] …
+- [ ] Temperature
+- [ ] Rainfall
+- [ ] …
 
 ##### Adaptations for the environment
 		- [ ] Use gill to breath
@@ -50,11 +50,11 @@ Each needs a sentence like this:
 > Include adaptations above
 
 #### Relationship
-- [x] A brief description of its niche
+- [ ] A brief description of its niche
 - [ ] Complete food web 
 	- [x] containing at least 7 organisms
 	- [ ] Brief description of at least 2 interactions that it participate in
-	- [ ] Web version
+	- [x] Web version
 
 ### Genetics/Reproduction —> John -- ?
 Diagram of reproductive life cycle
