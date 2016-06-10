@@ -1,7 +1,13 @@
 # Biology-Final-Project
 Final project for biology at Oakton HS
 
+The website is currently hosting at
+
+[apollonian.xyz/product/Biology-Final-Project/](http://apollonian.xyz/product/Biology-Final-Project/)
+
+# Tools
 Reformat code: [http://jsbeautifier.org](http://jsbeautifier.org)
+Build website: jQuery, Bootstrap, OBJCUML
 
 # Plan
 > **Due: 6/10/16**
@@ -17,8 +23,8 @@ Reformat code: [http://jsbeautifier.org](http://jsbeautifier.org)
 	- [x] Picture
 	- [x] Model
 
-## Ecology/Evolution -- 50%
-### Classification —> Apollo -- 100 %
+## Ecology/Evolution -- 66%
+### Classification —> Apollo - Closed
 [Classification Of Wolf](https://en.wikipedia.org/wiki/Canis)
 Each needs a sentence like this:
 > Ocean wolf fits into the `Level` `Name` because `Reason`
@@ -36,38 +42,38 @@ Each needs a sentence like this:
 
 ### Biome —> Camamron -- 33%
 #### Brief description of biome/habitat
-- [ ] Temperature
-- [ ] Rainfall
-- [ ] …
+- [x] Temperature
+- [x] Rainfall
+- [x] …
 
 ##### Adaptations for the environment
-		- [ ] Use gill to breath
-		- [ ] …
-		- [ ] …
-		- [ ] …
-		- [ ] …
+		- [x] Use gill to breath
+		- [x] …
+		- [x] …
+		- [x] …
+		- [x] …
 	- [ ] Cladogram showing relationship between it and at least 5 other organisms
 > Include adaptations above
 
 #### Relationship
-- [ ] A brief description of its niche
-- [ ] Complete food web 
+- [x] A brief description of its niche
+- [x] Complete food web 
 	- [x] containing at least 7 organisms
 	- [ ] Brief description of at least 2 interactions that it participate in
 	- [x] Web version
 
-### Genetics/Reproduction —> John -- ?
-Diagram of reproductive life cycle
-Include Labels and key terms
- Asexual/Sexual, Diploid/Haploid, Fertilization, zygote,, Meiosis
-	3 Genetics problems for different trait
-	Role and process of meiosis
-		Centrioles/Nucleus…
+### Genetics/Reproduction —> John 80%
+- [ ] Diagram of reproductive life cycle
+	- [ ] Include Labels and key terms
+	- [x] Asexual/Sexual, Diploid/Haploid, Fertilization, zygote,, Meiosis
+- [x] 3 Genetics problems for different trait
+- [ ] Role and process of meiosis
+		- [ ] Centrioles/Nucleus…
 
-### Cell & Energy —> Apollo -- 0%
-	At least 10 organelles
-	Detailed description of photosynthesis/Cellular Respiration
-		Include key terms
-How it maintain homeostasis
-	Brief discussion of osmosis with key terms
-		Active / Passive transport
+### Cell & Energy —> Apollo - Closed
+- [x] At least 10 organelles
+	- [x] Detailed description of photosynthesis/Cellular Respiration
+	- [x] Include key terms
+- [x] How it maintain homeostasis
+	- [x] Brief discussion of osmosis with key terms
+	- [x] Active / Passive transport
