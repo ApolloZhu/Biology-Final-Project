@@ -59,16 +59,15 @@ Each needs a sentence like this:
 ### Genetics/Reproduction —> John -- ?
 Diagram of reproductive life cycle
 Include Labels and key terms
- Asexual/Sexual, Diploid/Haploid, Fertilization, zygote,, Mitosis/Meiosis/Spores
-3 Genetics problems for different trait
-Role and process of mitosis/meiosis
-	Centrioles/Nucleus…
-Process of who it synthesizes proteins
+ Asexual/Sexual, Diploid/Haploid, Fertilization, zygote,, Meiosis
+	3 Genetics problems for different trait
+	Role and process of meiosis
+		Centrioles/Nucleus…
 
 ### Cell & Energy —> Apollo -- 0%
 	At least 10 organelles
 	Detailed description of photosynthesis/Cellular Respiration
 		Include key terms
-	How it maintain homeostasis
-		Brief discussion of osmosis with key terms
+How it maintain homeostasis
+	Brief discussion of osmosis with key terms
 		Active / Passive transport

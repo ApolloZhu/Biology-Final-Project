@@ -1,40 +1,207 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Life for Sea Wolf</title>
-    <link href="css/bootstrap.css" rel="stylesheet">
-	<link href="css/main.css" rel="stylesheet">
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Life for Sea Wolf</title>
+		<link href="css/bootstrap.css" rel="stylesheet">
+		<link href="css/main.css" rel="stylesheet">
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
-</head>
+	</head>
 
-<body>
-    <header id="header"></header>
-    
-    <div class="container firstBlock">
-    	<h1>Cell Structure</h1>
-        <img src="images/eyepattern.png" alt="Image of animal cell">
-    </div>
-    <div class="container">
-    	<h1>Cellular Respiration</h1>
-    </div>
-    <div class="container">
-    	<h1>Homostasis</h1>
-    </div>
-    
-    <footer id="footer"></footer>
-    <script src="js/jquery-1.11.3.min.js"></script>
-    <script src="js/bootstrap.js"></script>
-    <script src="js/main.js"></script>
-    <script>
-	setGlobalContents();
-    </script>
-</body>
+	<body style="font-size:24px;">
+		<header id="header"></header>
+		<div class="container firstBlock lastBlock">
+			<div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12" id="main">
+				<div class="row">
+					<h1 class="text-center">Cell Structure</h1>
+					<img class="expand" style="opacity:0" src="images/animalCell.png" alt="Image of animal cell" width="100%" height="100%">
+                    <script>
+                    </script>
+				</div>
+                <br>
+                <hr>
+                <br>
+                <div class="row">
+                	<table cellpadding="0px" cellspacing="0px" width="90%" align="center" rules="all">
+                    	<thead class="diff">
+                        	<tr>
+                            	<td>
+                                	Molecule
+                                </td>
+                                <td>
+                                	Description
+                                </td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        	<tr>
+                            	<td>
+                                	Cell Membrane
+                                </td>
+                                <td>
+                                	Controls what in and out of the cell, protect and support the cell
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td>
+                                	Nucleus
+                                </td>
+                                <td>
+                                	Control center of the cell, surrounded by nuclear membrane, contains DNA(Genetic), and make RNA from DNA
+                                </td>
+                            </tr>
+                            <tr>
+                            	<td>
+                                	Mitochondroia
+                                </td>
+                                <td>
+                                	Two-membrane structured molecule. Make ATP, energy for cell to use
+                                </td>
+                            </tr>
+                            <tr>
+                            	<td>
+                                	Ribosomes
+                                </td>
+                                <td>
+                                	Protein making machine, joining amino acids together to make protein
+                                </td>
+                            </tr>
+                            <tr>
+                            	<td>
+                                	Endoplasmic Reticulum (ER)
+                                </td>
+                                <td>
+                                	Many folded membranes, moving things around the cell. The <strong>Smooth</strong> ER move lipid, and <strong>Rough</strong> ER moves protein.
+                                </td>
+                            </tr>
+                            <tr>
+                            	<td>
+                                	Golgi Body
+                                </td>
+                                <td>
+                                	The Post office, sorts and packs proteins for export
+
+                                </td>
+                            </tr>
+                            <tr>
+                            	<td>
+                                	Lysosomes
+                                </td>
+                                <td>
+									Contain digestive enzymes to remove the junk, break down old and defective part of the cell
+                                </td>
+                            </tr>
+                            <tr>
+                            	<td>
+                                	Vacuole
+                                </td>
+                                <td>
+                                	Many small molecules to store water
+                                </td>
+                            </tr>
+                            <tr>
+                            	<td>
+                                	Centrioles
+                                </td>
+                                <td>
+                                	Organize spindle fibers, chormosomes during cell division.
+                                </td>
+                            </tr>
+                            <tr>
+                            	<td>
+                                	Cytoplasm
+                                </td>
+                                <td>
+                                	Jelly-like material that contains all organeles, 80% is water. It is the place for chemical reactions to happen, and maintain a constant PH.
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <br>
+				<hr>
+                <br>
+				<div class="row">
+					<h1 class="text-center">Cellular Respiration</h1>
+					<div>
+						Cellular Respiration happens in MITOCHONDRIA.It release chemical energy stored in <strong>glucose</strong>, and release them as smaller molecules called <strong>ATP</strong>.
+					</div>
+					<div>
+                    	<br>
+						<h2>Aerobic or Anaerobic?</h2>
+						<div>
+							Aerobic, because it uses its gill to breath air, and using air help it to release more ATP, although it takes a longer and more complex process. It starts in cytoplasm, and end in mitochondria.
+						</div>
+						<div class="hidden-xs">
+							<pre class="text-center"><h1 class="equation"><span class="pnm">C</span><sub>6</sub><span class="dnm">H</span><sub>12</sub><span class="dnm">O</span><sub>6</sub> + <span class="dnm">O</span><sub>2</sub> = <span class="pnm">C</span><span class="dnm">O</span><sub>2</sub> + <span class="dnm">H</span><sub>2</sub><span class="dnm">O</span> + 36 <a href="#ATP">ATP</a></h1></pre>
+						</div>
+						<div class="visible-xs">
+							<pre class="text-center equation"><span class="pnm">C</span><sub>6</sub><span class="dnm">H</span><sub>12</sub><span class="dnm">O</span><sub>6</sub> + <span class="dnm">O</span><sub>2</sub> = <span class="pnm">C</span><span class="dnm">O</span><sub>2</sub> + <span class="dnm">H</span><sub>2</sub><span class="dnm">O</span> + 36 <a href="#ATP">ATP</a></pre>
+						</div>
+                        <br>
+                        <br>
+						<h2 id="ATP">ATP, ADP</h2>
+						<div><strong>ATP</strong>:Adenosine Triphosphate</div>
+						<div><strong>ADP</strong>:Adenosine Diphosphate</div>
+						<div>
+							Contains less energy tha glucose, use as short term energy source And when the last phosphate of ATP is removed, the energy will power up the ocean wolf.
+						</div>
+					</div>
+				</div>
+                <br>
+				<hr>
+                <br>
+				<div class="row">
+					<h1 class="text-center">Homostasis</h1>
+					<div>
+						It need to live in the ocean to maintain homostasis, and transport substances in and out of the body.
+					</div>
+                    <br>
+                    <br>
+					<h2>Passive Transport -- Don't Require Energy</h2>
+                    <br>
+					<h3>Osmosis</h3>
+					<div>
+						Occurs because of the polarity of water, they can move through the membrane eaisly most of the times by interacting with other polar molecules. It move from hypertonic solution to hypotonic solutoin. It move constantly in the isotonic solution. That means when Ocean wolves swim into the river or spring, the salt in the water decreases, their body become hypertonic, and the water will flow in their body, they became too big , and finally <strong>lyse</strong>(die) from that. If there is too much salt, they will shrink, because all the water in their body will move out of their body.
+					</div>
+                    <br>
+					<h3>Diffusion</h3>
+					<div>
+						After breathing the air through the gill, the gas exchange happend as diffusion. Diffusion is the process which molecules move randomly from area of higher concentration to lower concentration.
+					</div>
+                    <br>
+					<h3>Facilitated Diffusion</h3>
+					<div>
+						Using special carrier protein with a central channel to select which kind of molecules to move across the membrane from higher concentratoin to lower concentration. Most of the time, glucose arre transported using this way.
+					</div>
+                    <br>
+					<h2>Active Transport -- Need Energy</h2>
+					<div>
+						When energy (<strong>ATP</strong>) is required. Occurs when molecules are too big or moving against concentration gradient with th help from protein. The action that take in and out the cell are called <strong>Endocytosis</strong> and <strong>Exocytosis</strong>. All the substances that enters the cell are stored inside <strong>vesicle</strong>. Ocean wolf use active transport to absorb glucose.
+					</div>
+				</div>
+			</div>
+		</div>
+		<footer id="footer"></footer>
+		<script src="js/jquery-1.11.3.min.js"></script>
+		<script src="js/bootstrap.js"></script>
+		<script src="js/main.js"></script>
+		<script>
+			setGlobalContents();
+			$(document).ready(function() {
+				$(".expand").animate({width:0},1000,"linear");
+				var windowWidth = $("#main").width()
+                $(".expand").animate({opacity:1,width:windowWidth},4000,"swing");
+            });
+		</script>
+	</body>
+
 </html>
