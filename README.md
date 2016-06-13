@@ -13,7 +13,7 @@ Build website: jQuery, Bootstrap, OBJCUML
 > **Due: 6/10/16**
 > Present: 6/14/16
 
-## Main Page -- 95%
+## Main Page -- 100%
 - [x] Member’s Name: `Camaron Larson-Tran`; `Zhiyu Zhu`; “John Hetman”
 	- [x] Profile Photo for `J`
 - [x] Subject & Class Period: `Biology`, `Period 5`
@@ -23,8 +23,8 @@ Build website: jQuery, Bootstrap, OBJCUML
 	- [x] Picture
 	- [x] Model
 
-## Ecology/Evolution -- 66%
-### Classification —> Apollo - Closed
+## Ecology/Evolution -- 100%
+### Classification —> Apollo -- 100%
 [Classification Of Wolf](https://en.wikipedia.org/wiki/Canis)
 Each needs a sentence like this:
 > Ocean wolf fits into the `Level` `Name` because `Reason`
@@ -40,37 +40,38 @@ Each needs a sentence like this:
 |Genus|Canis|It has the characteristics of wolves|
 |Species|Oceanus|It live in the ocean|
 
-### Biome —> Camamron -- 33%
+### Biome —> Camamron -- 100%
 #### Brief description of biome/habitat
 - [x] Temperature
 - [x] Rainfall
 - [x] …
 
 ##### Adaptations for the environment
-		- [x] Use gill to breath
-		- [x] …
-		- [x] …
-		- [x] …
-		- [x] …
-	- [ ] Cladogram showing relationship between it and at least 5 other organisms
-> Include adaptations above
+- [x] Use gill to breath
+- [x] …
+- [x] …
+- [x] …
+- [x] …
+- [x] Cladogram showing relationship between it and at least 5 other organisms
+	- [x] Include adaptations above
 
 #### Relationship
 - [x] A brief description of its niche
 - [x] Complete food web 
 	- [x] containing at least 7 organisms
-	- [ ] Brief description of at least 2 interactions that it participate in
+	- [x] Brief description of at least 2 interactions that it participate in
 	- [x] Web version
 
-### Genetics/Reproduction —> John 80%
+### Genetics/Reproduction —> John -- 90%
 - [ ] Diagram of reproductive life cycle
 	- [ ] Include Labels and key terms
 	- [x] Asexual/Sexual, Diploid/Haploid, Fertilization, zygote,, Meiosis
 - [x] 3 Genetics problems for different trait
-- [ ] Role and process of meiosis
-		- [ ] Centrioles/Nucleus…
+- [x] Role and process of meiosis
+		- [x] Centrioles/Nucleus…
+		- [x] Lightbox —
 
-### Cell & Energy —> Apollo - Closed
+### Cell & Energy —> Apollo -- 100%
 - [x] At least 10 organelles
 	- [x] Detailed description of photosynthesis/Cellular Respiration
 	- [x] Include key terms
