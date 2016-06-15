@@ -62,9 +62,9 @@ Each needs a sentence like this:
 	- [x] Brief description of at least 2 interactions that it participate in
 	- [x] Web version
 
-### Genetics/Reproduction —> John -- 90%
-- [ ] Diagram of reproductive life cycle
-	- [ ] Include Labels and key terms
+### Genetics/Reproduction —> John -- 100%
+- [x] Diagram of reproductive life cycle
+	- [x] Include Labels and key terms
 	- [x] Asexual/Sexual, Diploid/Haploid, Fertilization, zygote,, Meiosis
 - [x] 3 Genetics problems for different trait
 - [x] Role and process of meiosis
